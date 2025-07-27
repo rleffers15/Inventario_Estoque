@@ -60,9 +60,3 @@ As colunas abaixo são geradas automaticamente:
 📅 Início: 01/01/2025  
 🔖 Versão: 001
 
----
-
-## 📄 Licença
-
-Este projeto é de código aberto e está licenciado sob a [MIT License]
-
